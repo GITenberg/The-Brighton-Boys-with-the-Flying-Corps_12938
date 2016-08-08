@@ -1,0 +1,26 @@
+_repo: The-Brighton-Boys-with-the-Flying-Corps_12938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Driscoll, James R.
+    gutenberg_agent_id: '4729'
+    url: http://www.gutenberg.org/2009/agents/4729
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fighter pilots -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Aerial operations -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Fighter planes -- Piloting -- Juvenile fiction'
+- GITenberg
+title: The Brighton Boys with the Flying Corps
+url: http://www.gutenberg.org/ebooks/12938
